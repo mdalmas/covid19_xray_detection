@@ -8,8 +8,8 @@ This notebook was ran on google collab. As My gtx1050ti was unable to handle it.
 
 ### Prerequisites
 
-Tensorflow 2.xx
-Keras
+Tensorflow 2.xx</br>
+Keras</br>
 h5py
 ## Details
 1. **The dataset:**
