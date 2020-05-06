@@ -23,7 +23,7 @@ h5py
    1. We used VGG16 model, along with our own model.
    2. Tranfer learning, we initailised our model's top 2 convolutional layer's bais and weights of that of VGG16
 4. **RESULT**
-   1. On paper we got 98 % training and val accuracies BOTH,</br> Which is hard to believe as we only had 115 images of covid 9 positive patients.
+   1. On paper we got 98 % training and val accuracies BOTH,</br> Which is hard to believe as we only had 115 images of covid 19 positive patients.
    2. **Test** and training accuracies and losses</br>
    ![This was the results loss and accuracies](https://github.com/mdalmas/covid19_xray_detection/blob/master/plot.jpg)
 
