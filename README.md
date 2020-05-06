@@ -14,7 +14,7 @@ h5py
 ## Details
 1. **The dataset:**
    1.	The COVID-19 X-ray image dataset we’ll be using for this solution was curated by Dr. Joseph Cohen, a postdoctoral fellow at the University of Montreal.</br>
-   2.	For healthy X-ray, we shall use   Kaggle’s Chest X-Ray Images (Pneumonia) dataset and sampled 25 X-ray images from healthy patients.
+   2.	For healthy X-ray, we shall use   Kaggle’s Chest X-Ray Images (Pneumonia) dataset and sampled X-ray images from healthy patients.
 2. **Pre-processing**
    1.	Extract the class label (either covid or normal) from the path 
    2.	Load the image, and pre-process it by converting to RGB channel ordering. 
