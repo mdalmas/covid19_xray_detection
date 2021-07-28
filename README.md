@@ -40,7 +40,7 @@ python covid19.py #ALTHOUGH I DON'T RECOMMEND BECUASE IT IS CONVERTED FROM .ipyn
 You should get a trained model and a results plot at the end of the script.
 
 ### If you need my trained model <br>
-or<a href="https://drive.google.com/drive/folders/1-MaL4eGaVyKz_1Ix_HCVs3VuvmEEoj1C?usp=sharing">  Download</a> <br>
+<a href="https://drive.google.com/drive/folders/1-MaL4eGaVyKz_1Ix_HCVs3VuvmEEoj1C?usp=sharing">  Download</a> <br>
 contact me at almas.md60@outlook.com 
 
 
