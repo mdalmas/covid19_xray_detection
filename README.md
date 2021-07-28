@@ -29,9 +29,9 @@ h5py
 
 ### Using
 
-***Just USE the notebook I don't not recommend using the .py file*** .
-I don't know what happens when you run the .py file.
-***Structure of folders is as uploaded***
+***Just USE the notebook I don't not recommend using the .py file*** .<br>
+I don't know what happens when you run the .py file.<br>
+***Structure of folders is as uploaded***<br>
 
 ```
 python covid19.py #ALTHOUGH I DON'T RECOMMEND BECUASE IT IS CONVERTED FROM .ipynb
