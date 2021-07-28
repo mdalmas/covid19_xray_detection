@@ -29,12 +29,12 @@ h5py
 
 ### Using
 
-Just run the notebook .
+***Just USE the notebook I don not recommend using the .py file*** .
 or Just run .py file
 Structure of folders is as uploaded
 
 ```
-python covid19.py
+python covid19.py #ALTHOUGH I DON'T RECOMMEND BECUASE IT IS CONVERTED FROM .ipynb
 ```
 
 You should get a trained model and a results plot at the end of the script.
